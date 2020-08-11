@@ -124,7 +124,32 @@ in Topos Quantum Theory</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(38).pdf" style="text-decoration:none;">Quantum Corrections To Gravity: Polishing The Window Into The Black Hole Microstates</a></li>
   
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(39).pdf" style="text-decoration:none;">Advances in the Interplay Between Quantum and Gravity Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(40).pdf" style="text-decoration:none;">New Paths Towards
+Quantum Gravity</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(41).pdf" style="text-decoration:none;">The Universe: A View from Classical and Quantum Gravity</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(42).pdf" style="text-decoration:none;">Einstein's Physics: 
+Atoms, Quanta, and Relativity Derived, Explained, and Appraised</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(43).pdf" style="text-decoration:none;">Flow of Time: Quantum Gravity giving New Physics</a></li>
   
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(44).pdf" style="text-decoration:none;">Gravity, Gauge Theories and Quantum Cosmology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(45).pdf" style="text-decoration:none;">Mach's principle: from Newton's bucket to quantum gravity</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(46).pdf" style="text-decoration:none;">Random Surfaces
+and Quantum Gravity</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(47).pdf" style="text-decoration:none;">The Quantum World: 
+Philosophical Debates on Quantum Physics</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(48).pdf" style="text-decoration:none;">The Structural Foundations of Quantum Gravity</a></li>
+  
+   
+    
   
   
  </ul>
