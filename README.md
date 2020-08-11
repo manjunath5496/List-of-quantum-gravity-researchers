@@ -42,3 +42,94 @@
 <li><a title="John Archibald Wheeler" href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler">John Archibald Wheeler</a>: physicist in the field of quantum gravity due to his development, with&nbsp;<a title="Bryce DeWitt" href="https://en.wikipedia.org/wiki/Bryce_DeWitt">Bryce DeWitt</a>, of the&nbsp;<a title="Wheeler&ndash;DeWitt equation" href="https://en.wikipedia.org/wiki/Wheeler%E2%80%93DeWitt_equation">Wheeler&ndash;DeWitt equation</a>.</li>
 <li><a title="Edward Witten" href="https://en.wikipedia.org/wiki/Edward_Witten">Edward Witten</a>: mathematical physicist in string theory and&nbsp;<a title="M-theory" href="https://en.wikipedia.org/wiki/M-theory">M-theory</a>.</li>
 </ul>
+
+</br>
+
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(1).pdf" style="text-decoration:none;">Intriguing properties of neural networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(2).pdf" style="text-decoration:none;">Explaining and Harnessing Adversarial Examples</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(3).pdf" style="text-decoration:none;">Conceptual Problems of Quantum Gravity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(4).pdf" style="text-decoration:none;">Quantum mechanics and gravity</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(5).pdf" style="text-decoration:none;">Heat Kernel and Quantum Gravity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(6).pdf" style="text-decoration:none;">Gravity and the Quantum: Pedagogical Essays on Cosmology, Astrophysics, and Quantum Gravity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(7).pdf" style="text-decoration:none;">Symmetries
+in Fundamental Physics, Volume: 176</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(8).pdf" style="text-decoration:none;"> Foundations of Quantum Gravity</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(9).pdf" style="text-decoration:none;">Calculating the Cosmos: How Mathematics Unveils the Universe</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(10).pdf" style="text-decoration:none;">Quantum Triangulations: Moduli Spaces, Strings, and Quantum Computing</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(11).pdf" style="text-decoration:none;">Quantum Gravity:
+From Theory to Experimental Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(12).pdf" style="text-decoration:none;">The Meaning of Quantum Gravity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(13).pdf" style="text-decoration:none;">A First Course
+in Topos Quantum Theory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(14).pdf" style="text-decoration:none;">Approaches to Quantum Gravity: Toward a New Understanding of Space, Time and Matter</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(15).pdf" style="text-decoration:none;">The Pursuit of Quantum Gravity</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(16).pdf" style="text-decoration:none;">Three Roads to Quantum Gravity</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(17).pdf" style="text-decoration:none;">Physics meets philosophy at the Planck scale</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(18).pdf" style="text-decoration:none;">Reality Is Not What It Seems: The Journey to Quantum Gravity</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(19).pdf" style="text-decoration:none;">Quantum Gravity</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(20).pdf" style="text-decoration:none;">Absolutely Small: How Quantum Theory Explains Our Everyday World</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(21).pdf" style="text-decoration:none;">Nonperturbative Quantum Gravity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(22).pdf" style="text-decoration:none;">Adversarial Examples for Generative Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(23).pdf" style="text-decoration:none;">The Spin-Foam Approach to Quantum Gravity</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(24).pdf" style="text-decoration:none;">Selected Studies in Classical and Quantum Gravity</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(25).pdf" style="text-decoration:none;">Quantum pre-geometry models for Quantum Gravity</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(26).pdf" style="text-decoration:none;">Canonical Quantum Gravity: Fundamentals and Recent Developments</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(27).pdf" style="text-decoration:none;">Towards a Theory of Quantum Gravity Through Geometrization of Quantum Mechanics</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(28).pdf" style="text-decoration:none;">Puzzles in quantum gravity : what can black hole microstates teach us about quantum gravity?</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(29).pdf" style="text-decoration:none;">Towards the first adversarially robust neural network model on MNIST</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(30).pdf" style="text-decoration:none;">BPS Approaches to Anyons, Quantum Hall States and Quantum Gravity</a></li>
+  
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(31).pdf" style="text-decoration:none;">Quantum Gravity: A Primer for Philosophers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(32).pdf" style="text-decoration:none;">Lectures on Quantum Gravity and Black Holes</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(33).pdf" style="text-decoration:none;">Introduction to Quantum Effects in Gravity</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(34).pdf" style="text-decoration:none;">Fermions and Bosons in Loop Quantum Gravity and Its Cosmological Implications</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(35).pdf" style="text-decoration:none;">Prospects for Infrared Quantum Gravity: From Cosmology to Black Holes</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(36).pdf" style="text-decoration:none;">How Far Are We from the Quantum Theory of Gravity?</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(37).pdf" style="text-decoration:none;">Quantum Field Theory I</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(38).pdf" style="text-decoration:none;">Quantum Corrections To Gravity: Polishing The Window Into The Black Hole Microstates</a></li>
+  
+  
+  
+  
+  
+ </ul>
+
+
+
+
+
