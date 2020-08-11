@@ -89,7 +89,7 @@ in Topos Quantum Theory</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(20).pdf" style="text-decoration:none;">Absolutely Small: How Quantum Theory Explains Our Everyday World</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(21).pdf" style="text-decoration:none;">Nonperturbative Quantum Gravity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(22).pdf" style="text-decoration:none;">Adversarial Examples for Generative Models</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(22).pdf" style="text-decoration:none;">Foundations of Space and Time: Reflections on Quantum Gravity</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(23).pdf" style="text-decoration:none;">The Spin-Foam Approach to Quantum Gravity</a></li> 
  
 
@@ -102,7 +102,7 @@ in Topos Quantum Theory</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(28).pdf" style="text-decoration:none;">Puzzles in quantum gravity : what can black hole microstates teach us about quantum gravity?</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(29).pdf" style="text-decoration:none;">Towards the first adversarially robust neural network model on MNIST</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(29).pdf" style="text-decoration:none;">Quantum Leap: From Dirac and Feynman, Across the Universe, to Human Body and Mind</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(30).pdf" style="text-decoration:none;">BPS Approaches to Anyons, Quantum Hall States and Quantum Gravity</a></li>
   
