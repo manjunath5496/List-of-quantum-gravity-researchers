@@ -148,7 +148,12 @@ Philosophical Debates on Quantum Physics</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(48).pdf" style="text-decoration:none;">The Structural Foundations of Quantum Gravity</a></li>
   
-   
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(49).pdf" style="text-decoration:none;">Cosmological Sectors in Loop Quantum Gravity</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(50).pdf" style="text-decoration:none;">Towards Quantum Gravity</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(51).pdf" style="text-decoration:none;">Global Formalism of
+Loop Quantum Gravity</a></li>
     
   
   
