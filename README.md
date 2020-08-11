@@ -51,9 +51,9 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(1).pdf" style="text-decoration:none;">Intriguing properties of neural networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(1).pdf" style="text-decoration:none;">Quantum Field Theory in Curved Spacetime: Quantized Fields and Gravity</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(2).pdf" style="text-decoration:none;">Explaining and Harnessing Adversarial Examples</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(2).pdf" style="text-decoration:none;">A First Course in Loop Quantum Gravity</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(3).pdf" style="text-decoration:none;">Conceptual Problems of Quantum Gravity</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(4).pdf" style="text-decoration:none;">Quantum mechanics and gravity</a></li>                              
