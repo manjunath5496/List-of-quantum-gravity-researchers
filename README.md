@@ -156,6 +156,17 @@ Philosophical Debates on Quantum Physics</a></li>
 Loop Quantum Gravity</a></li>
     
   
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(52).pdf" style="text-decoration:none;">Quantum Einstein Gravity: Advancements of Heat Kernel-based Renormalization Group Studies</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(53).pdf" style="text-decoration:none;">Fluctuations, Information, Gravity and the Quantum Potential</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(54).pdf" style="text-decoration:none;">Quantum Gravity, Generalized Theory of Gravitation and Superstring Theory-Based Unification</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/List-of-quantum-gravity-researchers/blob/master/qugry(55).pdf" style="text-decoration:none;">Simplicical Quantum Gravity</a></li>  
+    
+    
+    
+  
   
  </ul>
 
